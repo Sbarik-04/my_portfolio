@@ -3,7 +3,7 @@ const userData = {
     name: "Sourav Barik",
     title: "Frontend Developer, Java Enthusiast, Data Analyst.",
     intro: "I specialize in crafting seamless user experiences through intuitive web development, blending creativity with precision. With a strong foundation in frontend technologies and a growing expertise in backend integration, I build dynamic and engaging applications. My Java development skills enable me to engineer robust solutions, like university management systems, while my data analysis proficiency helps transform raw information into actionable insights. Passionate about problem-solving and innovation, I thrive on creating impactful digital solutions that bridge technology and user needs.",
-    avatar: "assets/avater.jpg",
+    avatar: "./assets/avater.jpg",
     about: {
         description: "I'm a Frontend developer with over 1 years of experience building websites and applications. I specialize in JavaScript and have professional experience working with , Node.js, and various databases. I'm passionate about creating clean, efficient code and user-friendly interfaces that solve real business problems.I have also the foundation on Data Analysis and also i have done a lot of projects on that domain"
     },
@@ -106,7 +106,7 @@ const userData = {
             id: 1,
             title: "Tic Tac Toe",
             category: "Web Design",
-            image: "assets/projects/tic tac toe.jpeg",
+            image: "./assets/projects/tic tac toe.jpeg",
             description: "A sleek, interactive Tic Tac Toe game built with HTML, CSS, and JavaScript, featuring responsive UI, smooth animations, and optimized game logic for an engaging player experience.",
             technologies: "HTML, CSS, JavaScript,",
             link: "#",
@@ -117,10 +117,10 @@ const userData = {
             id: 2,
             title: "Portfolio Website",
             category: "Web Design",
-            image: "assets/projects/porfolio.png",
+            image: "./assets/projects/porfolio.png",
             description: "A modern portfolio website with smooth animations and interactive elements. Features a fully responsive design and optimized performance.",
             technologies: "HTML, CSS, JavaScript, GSAP",
-            link: "http://127.0.0.1:5500/index.html",
+            link: "#",
             client: "Creative Designer",
             date: "March 2025"
         },
@@ -128,7 +128,7 @@ const userData = {
             id: 3,
             title: "University Management System",
             category: "Java Project Development",
-            image: "assets/projects/fab fa-java.png",
+            image: "./assets/projects/fab fa-java.png",
             description: "A fully responsive Efficiently manages student records, course details, and faculty administration with seamless interaction.",
             technologies: "Java Swing, Java awt, MySql",
             link: "#",
@@ -177,3 +177,4 @@ const userData = {
      
     ]
 };
+
