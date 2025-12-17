@@ -109,7 +109,7 @@ const userData = {
             image: "./assets/projects/tic tac toe.jpeg",
             description: "A sleek, interactive Tic Tac Toe game built with HTML, CSS, and JavaScript, featuring responsive UI, smooth animations, and optimized game logic for an engaging player experience.",
             technologies: "HTML, CSS, JavaScript,",
-            link: "#",
+            link: "https://tic-tac-toe-web-application-ebon.vercel.app/",
             client: "Creative Designer",
             date: "February 2025"
         },
@@ -177,4 +177,5 @@ const userData = {
      
     ]
 };
+
 
